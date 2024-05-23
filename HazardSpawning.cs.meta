@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 115015bc102744536b2b12120946ebf6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wumpus: {fileID: 6342053982878750996, guid: 5a0d2867d03ed47aab45a9763d735eea, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
